@@ -1,4 +1,4 @@
-## Your Name
+## Oscar Bertrand
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -11,15 +11,20 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+Arkera (July 2019 - July 2020)  
+ETF Domain Expert
 
-- Any experience relevent to software development
+- Collaborate with data scientists and engineers to source, process and deliver high quality information critical to decision-makers ahead of competitors
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+ETFGI (March 2017 - July 2020)  
+Lead ETF Analyst
 
-- Any experience relevent to software development
+- Develop new and innovative products with engineers helping ETFGI expand its core business
+
+Credit Agricole CIB (February 2015 - May 2016)
+Fixed Income Research Assistant
+
+- Developing models and strategies to assist with trading decisions focused on Eurozone government bonds using VBA and R
 
 ## Skills
 
@@ -42,18 +47,23 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (January 2021 - March 2021)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Glasgow (September 2013 - August 2014)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+MSc in Quantitative Finance (Distinction)
+- Dissertation theme: Volatility Forecasting: Evidence from the EUROSTOXX 50 and FTSE 100 Stock Indices
+- Main topics: Mathematical Finance, Financial Derivatives, Modelling/Forecasting Financial Markets, C++
+
+#### Université Paris II Panthéon-Assas (September 2007 - June 2011)
+
+MSc in Quantitative Finance (Distinction)
+- Main topics: Financial Markets, Macroeconomics, Financial Analysis, Econometrics
 
 #### Any other qualifications
 
@@ -61,4 +71,4 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Avid CrossFitter
