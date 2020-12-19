@@ -11,12 +11,12 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-Arkera (July 2019 - July 2020)  
+Arkera (July 2019 - July 2020)
 ETF Domain Expert
 
 - Collaborate with data scientists and engineers to source, process and deliver high quality information critical to decision-makers ahead of competitors
 
-ETFGI (March 2017 - July 2020)  
+ETFGI (March 2017 - July 2020)
 Lead ETF Analyst
 
 - Develop new and innovative products with engineers helping ETFGI expand its core business
@@ -62,7 +62,7 @@ MSc in Quantitative Finance (Distinction)
 
 #### Université Paris II Panthéon-Assas (September 2007 - June 2011)
 
-MSc in Quantitative Finance (Distinction)
+BSc (Hons) in Finance 2:1
 - Main topics: Financial Markets, Macroeconomics, Financial Analysis, Econometrics
 
 #### Any other qualifications
