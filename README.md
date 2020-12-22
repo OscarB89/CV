@@ -1,6 +1,6 @@
 ## Oscar Bertrand
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+After five years of working within the financial services industry, I wanted a new challenge and decided to train as a junior software engineer. Creating websites and apps, as well as solving complex problems from starch really appeals to me. It’s an industry always on the move, constantly innovating, that keeps me challenged, fully engaged and proactive.
 
 ## Projects
 
@@ -14,17 +14,27 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 Arkera (July 2019 - July 2020)
 ETF Domain Expert
 
+- Drive Arkera’s ETF and regulatory product development by addressing important industry trends, monitoring potential new entrants to the market, existing issuers and participants in the wider ETF ecosystem
 - Collaborate with data scientists and engineers to source, process and deliver high quality information critical to decision-makers ahead of competitors
+- Review and draft cutting-edge product-related content for sector experts surfacing AI-powered intelligence
+- Maintain client relationships with weekly calls/in-house meetings and proactively improve existing offerings
 
 ETFGI (March 2017 - July 2020)
 Lead ETF Analyst
 
+- Produce insightful reports about the growing global ETF market, from Europe and the US to Brazil and India as well as analysis of active and smart beta ETF
+- Maintain information on all aspects of the ETF eco-system within proprietary calculation and publication system
+- Coordinate with issuers, index providers and exchanges globally ensuring all relevant data is available and properly processed
 - Develop new and innovative products with engineers helping ETFGI expand its core business
 
 Credit Agricole CIB (February 2015 - May 2016)
 Fixed Income Research Assistant
 
-- Developing models and strategies to assist with trading decisions focused on Eurozone government bonds using VBA and R
+- Developing models &amp; strategies to assist with trading decisions focused on Eurozone government bonds
+- Supporting the Government Bond trading desk through daily and ad-hoc tasks
+- Collating and interpreting market data to form the basis of fixed income analysis
+- Writing commentary on the performance of sovereign bond auctions and keeping up to date with the latest market developments
+- Monitoring trade ideas and maintaining the yield curve models
 
 ## Skills
 
@@ -71,4 +81,4 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Avid CrossFitter
+- Avid CrossFitter
