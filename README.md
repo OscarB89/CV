@@ -44,7 +44,7 @@ Understanding the information critical to decision-makers has been the cornersto
 
 Communication and collaboration skills
 
-Clearly communicating ideas has been another important aspect of my professional life. I used to write market commentary and data analysis reports that I would them distribute to our clients on a daily/weekly and monthly basis. I would also collaborate with data scientists and engineers to source, process and deliver high quality information critical to decision-makers ahead of competitors.
+Clearly communicating ideas has been another important aspect of my professional life. I used to write market commentary and data analysis reports that I would then distribute to our clients on a daily/weekly and monthly basis. I would also collaborate with data scientists and engineers to source, process and deliver high quality information critical to decision-makers ahead of competitors.
 
 #### Another Skill
 
@@ -74,10 +74,6 @@ MSc in Quantitative Finance (Distinction)
 
 BSc (Hons) in Finance 2:1
 - Main topics: Financial Markets, Macroeconomics, Financial Analysis, Econometrics
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
 
