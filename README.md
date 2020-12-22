@@ -28,13 +28,9 @@ Fixed Income Research Assistant
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+Analytical skills
 
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
+Understanding the information critical to decision-makers has been the cornerstone of my approach at Arkera. I was routinely delivering intelligence to sector experts that they cannot find themselves. As the principal analyst at ETFGI, I assembled intelligence which ETF industry professionals relied on to make strategic decisions. I also developed new and innovative reports helping ETFGI expand its core business and bring transparency into the then opaque industry sectors of ESG and Smart Beta ahead of competitors.
 
 #### Another Skill
 
