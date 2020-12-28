@@ -48,7 +48,7 @@ Clearly communicating ideas has been another important aspect of my professional
 
 #### Time management
 
-I used to work under pressure and tight deadlines in order to deliver market reports and analysis. I also needed to be able to prioritise work as well as handle queries from internal and external clients on a daily basis.
+I used to work under pressure and tight deadlines in order to deliver market reports and analysis. My strong organizational skills allowed me to prioritise work appropriately as well as handle queries from internal and external clients on a daily basis.
 
 #### Another Skill
 
@@ -69,13 +69,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - RSpec, Jasmine
 
 #### University of Glasgow (September 2013 - August 2014)
-#### MSc in Quantitative Finance (Distinction)
+MSc in Quantitative Finance (Distinction)
 
 - Dissertation theme: Volatility Forecasting: Evidence from the EUROSTOXX 50 and FTSE 100 Stock Indices
 - Main topics: Mathematical Finance, Financial Derivatives, Modelling/Forecasting Financial Markets, C++
 
 #### Université Paris II Panthéon-Assas (September 2007 - June 2011)
-#### BSc (Hons) in Finance 2:1
+BSc (Hons) in Finance 2:1
 
 - Main topics: Financial Markets, Macroeconomics, Financial Analysis, Econometrics
 
