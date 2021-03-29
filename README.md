@@ -6,8 +6,8 @@ After five years of working within the financial services industry, I wanted a n
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **don8** | A webapp to do x. | React Native, Express, Node, Jest, Cypress |
+| **Pipeface** | A webapp to do y. | Ruby on Rails            |
 
 ## Experience
 
