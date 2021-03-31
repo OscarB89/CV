@@ -1,13 +1,23 @@
+<div align="center">
+
 ## Oscar Bertrand
+
+<a href="https://www.linkedin.com/in/oscarbertrand/">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+
+[Projects](#Projects) | [Skills](#Skills) | [Work Experience](#Experience) | [Education](#Education) | [Hobbies](#Hobbies) 
+
+</div>
 
 I recently completed a three month Makers Bootcamp where I studied Ruby & Javascript by building a range of applications and websites. I have a keen eye for detail and excellent problem solving skills and I am adept at learning new concepts at pace. I have a sound understanding of OOP, Agile methodologies and TDD and I want to bring my work ethic and experience to my next role, helping to build outstanding products with clean and well-tested code. 
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **don8** | A webapp to do x. | React Native, Express, Node, Jest, Cypress |
-| **Pipeface** | A webapp to do y. | Ruby on Rails            |
+| Name                         | Description       | Tech/tools        | Link |
+| ---------------------------- | ----------------- | ----------------- | ---
+| don8 | A mobile app that connects volunteers to the needs of local charities in their area |	JavaScript, MongoDB, Express(.js), React Native, Node(.js) | [Source code](https://github.com/OscarB89/don8) |
+| PipeFace | A fully functional social networking site A site where users can list properties for rental and rent the properties of others. First engineering project at Makers |	Ruby on Rails, Rspec, HTML, Bulma, CSS | [Source code](https://github.com/OscarB89/Pipeface) |
+|Xtreme BnB	| A site where users can list properties for rental and rent the properties of others. First engineering project at Makers | Ruby, Sinatra, Rspec, Capybara, HTML, Bootstrap, CSS | [Source code](https://github.com/OscarB89/Xtreme_Prestige_Worldwide_BnB) |
 
 ## Experience
 
@@ -50,15 +60,6 @@ Clearly communicating ideas has been another important aspect of my professional
 
 I used to work under pressure and tight deadlines in order to deliver market reports and analysis. My strong organizational skills allowed me to prioritise work appropriately as well as handle queries from internal and external clients on a daily basis.
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 ## Education
 
 #### Makers Academy (January 2021 - March 2021)
@@ -81,4 +82,5 @@ BSc (Hons) in Finance 2:1
 
 ## Hobbies
 
-- Avid CrossFitter
+- Avid CrossFitter practicing 5 times/week
+- I love to travel and experience new things
