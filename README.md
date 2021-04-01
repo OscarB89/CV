@@ -16,7 +16,7 @@ I recently completed a three month Makers Bootcamp where I studied Ruby & Javasc
 | Name                         | Description       | Tech/tools        | Link |
 | ---------------------------- | ----------------- | ----------------- | ---
 | don8 | A mobile app that connects volunteers to the needs of local charities in their area |	JavaScript, MongoDB, Express(.js), React Native, Node(.js) | [Source code](https://github.com/OscarB89/don8) |
-| PipeFace | A site where users can list properties for rental and rent the properties of others. First engineering project at Makers |	Ruby on Rails, Rspec, HTML, Bulma, CSS | [Source code](https://github.com/OscarB89/Pipeface) |
+| PipeFace | A site where users can list properties for rental and rent the properties of others. First engineering project at MakersA fully functional social networking site |	Ruby on Rails, Rspec, HTML, CSS | [Source code](https://github.com/OscarB89/Pipeface) |
 |Xtreme BnB	| A site where users can list properties for rental and rent the properties of others. First engineering project at Makers | Ruby, Sinatra, Rspec, Capybara, HTML, Bootstrap, CSS | [Source code](https://github.com/OscarB89/Xtreme_Prestige_Worldwide_BnB) |
 
 ## Experience
