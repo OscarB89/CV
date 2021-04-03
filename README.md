@@ -9,8 +9,6 @@
 
 </div>
 
-I recently completed a three month Makers Bootcamp where I studied Ruby & Javascript by building a range of applications and websites. I have a keen eye for detail and excellent problem solving skills and I am adept at learning new concepts at pace. I have a sound understanding of OOP, Agile methodologies and TDD and I want to bring my work ethic and experience to my next role, helping to build outstanding products with clean and well-tested code. 
-
 ## Projects
 
 | Name                         | Description       | Tech/tools        | Link |
