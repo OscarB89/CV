@@ -19,7 +19,7 @@ I am now in a position to build on both my front-end and back-end experience and
 | ---------------------------- | ----------------- | ----------------- | ---
 | don8 | A mobile app that connects volunteers to the needs of local charities in their area |	JavaScript, MongoDB, Express(.js), React Native, Node(.js) | [Source code](https://github.com/OscarB89/don8) |
 | PipeFace | A fully functional social networking site |	Ruby on Rails, Rspec, HTML, CSS | [Source code](https://github.com/OscarB89/Pipeface) |
-|Xtreme BnB	| A site where users can list properties for rental and rent the properties of others. First engineering project at Makers | Ruby, Sinatra, Rspec, Capybara, HTML, Bootstrap, CSS | [Source code](https://github.com/OscarB89/Xtreme_Prestige_Worldwide_BnB) |
+|Xtreme BnB	| A site where users can list properties for rental and rent the properties of others | Ruby, Sinatra, Rspec, Capybara, HTML, Bootstrap, CSS | [Source code](https://github.com/OscarB89/Xtreme_Prestige_Worldwide_BnB) |
 
 ## Experience
 
