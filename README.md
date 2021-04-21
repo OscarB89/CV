@@ -33,7 +33,7 @@ Clearly communicating ideas has been another important aspect of my professional
 
 #### Time management
 
-I used to work under pressure and tight deadlines in order to deliver market reports and analysis. My strong organizational skills allowed me to prioritise work appropriately as well as handle queries from internal and external clients on a daily basis. For my final project at Makers, I used the same time management and organizational skills, and delievered a fully-fonctional mobile app using the MERN stack in just 10 days.
+I used to work under pressure and tight deadlines in order to deliver market reports and analysis. My strong organisational skills allowed me to prioritise work appropriately as well as handle queries from internal and external clients on a daily basis. For my final project at Makers, I used the same time management and organisational skills, and delivered a fully-fonctional mobile app using the MERN stack in just 10 days.
 
 ## Experience
 
