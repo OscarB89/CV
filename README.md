@@ -38,7 +38,7 @@ I used to work under pressure and tight deadlines in order to deliver market rep
 ## Experience
 
 #### Arkera (July 2019 - July 2020)
-#### ETF Domain Expert
+#### Lead ETF Domain Expert
 
 - Drive Arkera’s ETF and regulatory product development by addressing important industry trends, monitoring potential new entrants to the market, existing issuers and participants in the wider ETF ecosystem
 - Collaborate with data scientists and engineers to source, process and deliver high quality information critical to decision-makers ahead of competitors
@@ -46,7 +46,7 @@ I used to work under pressure and tight deadlines in order to deliver market rep
 - Maintain client relationships with weekly calls/in-house meetings and proactively improve existing offerings
 
 #### ETFGI (March 2017 - July 2020)
-#### Lead ETF Analyst
+#### ETF Analyst
 
 - Produce insightful reports about the growing global ETF market, from Europe and the US to Brazil and India as well as analysis of active and smart beta ETF
 - Maintain information on all aspects of the ETF eco-system within proprietary calculation and publication system
