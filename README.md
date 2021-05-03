@@ -5,10 +5,14 @@
 <a href="https://www.linkedin.com/in/oscarbertrand/">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 
+</div>
+
 I am a career switcher from finance, excited by this fresh coding challenge and all the opportunities that lie ahead.
 I recently completed a 4-month coding bootcamp at Makers Academy in London where I learnt JavaScript, React Native through the MERN stack, Ruby as well as Ruby on Rails. I also had exposure to back-end tech in Node.js, PostgreSQL and Mongo DB among others. Beyond individual tech, the course at Makers had a strong emphasis on TDD and BDD software development within a wider context of Agile and XP values, which has shaped and guided my individual learning and development as a coder.
 I am now in a position to build on both my front-end and back-end experience and I am looking for a first coding role that will challenge and stretch me as both a developer and a professional.
 
+<div align="center">
+  
 [Projects](#Projects) | [Skills](#Skills) | [Work Experience](#Experience) | [Education](#Education) | [Hobbies](#Hobbies) 
 
 </div>
@@ -65,6 +69,7 @@ I used to work under pressure and tight deadlines in order to deliver market rep
 ## Education
 
 #### Makers Academy (January 2021 - March 2021)
+A full time, intensive and immersive boot camp to learn the essentials of full stack development, taught by one of Europe's leading tech education providers
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
