@@ -13,7 +13,7 @@ I am now in a position to build on both my front-end and back-end experience and
 
 <div align="center">
   
-[Projects](#Projects) | [[Experience](#Experience) | [Skills](#Skills) | [Education](#Education) | [Hobbies](#Hobbies) 
+[Projects](#Projects) | [Experience](#Experience) | [Skills](#Skills) | [Education](#Education) | [Hobbies](#Hobbies) 
 
 </div>
 
