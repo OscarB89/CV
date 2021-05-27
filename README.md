@@ -25,20 +25,6 @@ I am now in a position to build on both my front-end and back-end experience and
 | PipeFace | A fully functional social networking site |	Ruby on Rails, Rspec, HTML, CSS | [Source code](https://github.com/OscarB89/Pipeface) |
 |Xtreme BnB	| A site where users can list properties for rental and rent the properties of others | Ruby, Sinatra, Rspec, Capybara, HTML, Bootstrap, CSS | [Source code](https://github.com/OscarB89/Xtreme_Prestige_Worldwide_BnB) |
 
-## Skills
-
-#### Analytical skills
-
-Understanding the information critical to decision-makers has been the cornerstone of my approach at Arkera. I was routinely delivering intelligence to sector experts that they cannot find themselves. As the principal analyst at ETFGI, I assembled intelligence which ETF industry professionals relied on to make strategic decisions. I also developed new and innovative reports helping ETFGI expand its core business and bring transparency into the then opaque industry sectors of ESG and Smart Beta ahead of competitors. At Makers, I applied the same analytical skills by clearly defining the problem of each project and by breaking it down into smaller pieces, after having understood the requirements from a broader perspective.
-
-#### Communication and collaboration skills
-
-Clearly communicating ideas has been another important aspect of my professional life. I used to write market commentary and data analysis reports that I would then distribute to our clients on a daily/weekly and monthly basis. I would also collaborate with data scientists and engineers to source, process and deliver high quality information critical to decision-makers ahead of competitors. During my time at Makers, I have worked on a few group projects where I applied XP values, following practices such as daily stand-ups, retros as well as two-day sprints.
-
-#### Time management
-
-I used to work under pressure and tight deadlines in order to deliver market reports and analysis. My strong organisational skills allowed me to prioritise work appropriately as well as handle queries from internal and external clients on a daily basis. For my final project at Makers, I used the same time management and organisational skills, and delivered a fully-functional mobile app using the MERN stack in just 10 days.
-
 ## Experience
 
 #### Arkera (July 2019 - July 2020)
@@ -65,6 +51,20 @@ I used to work under pressure and tight deadlines in order to deliver market rep
 - Collating and interpreting market data to form the basis of fixed income analysis
 - Writing commentary on the performance of sovereign bond auctions and keeping up to date with the latest market developments
 - Monitoring trade ideas and maintaining the yield curve models
+
+## Skills
+
+#### Analytical skills
+
+Understanding the information critical to decision-makers has been the cornerstone of my approach at Arkera. I was routinely delivering intelligence to sector experts that they cannot find themselves. As the principal analyst at ETFGI, I assembled intelligence which ETF industry professionals relied on to make strategic decisions. I also developed new and innovative reports helping ETFGI expand its core business and bring transparency into the then opaque industry sectors of ESG and Smart Beta ahead of competitors. At Makers, I applied the same analytical skills by clearly defining the problem of each project and by breaking it down into smaller pieces, after having understood the requirements from a broader perspective.
+
+#### Communication and collaboration skills
+
+Clearly communicating ideas has been another important aspect of my professional life. I used to write market commentary and data analysis reports that I would then distribute to our clients on a daily/weekly and monthly basis. I would also collaborate with data scientists and engineers to source, process and deliver high quality information critical to decision-makers ahead of competitors. During my time at Makers, I have worked on a few group projects where I applied XP values, following practices such as daily stand-ups, retros as well as two-day sprints.
+
+#### Time management
+
+I used to work under pressure and tight deadlines in order to deliver market reports and analysis. My strong organisational skills allowed me to prioritise work appropriately as well as handle queries from internal and external clients on a daily basis. For my final project at Makers, I used the same time management and organisational skills, and delivered a fully-functional mobile app using the MERN stack in just 10 days.
 
 ## Education
 
