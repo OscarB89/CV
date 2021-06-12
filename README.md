@@ -56,7 +56,7 @@ I am now in a position to build on both my front-end and back-end experience and
 
 #### Analytical skills
 
-Understanding the information critical to decision-makers has been the cornerstone of my approach at Arkera. I was routinely delivering intelligence to sector experts that they cannot find themselves. As the principal analyst at ETFGI, I assembled intelligence which ETF industry professionals relied on to make strategic decisions. I also developed new and innovative reports helping ETFGI expand its core business and bring transparency into the then opaque industry sectors of ESG and Smart Beta ahead of competitors. At Makers, I applied the same analytical skills by clearly defining the problem of each project and by breaking it down into smaller pieces, after having understood the requirements from a broader perspective.
+Understanding the information critical to decision-makers has been the cornerstone of my approach at Arkera. I was routinely delivering intelligence to sector experts that they cannot find themselves. As the principal analyst at ETFGI, I assembled intelligence which ETF industry professionals relied on to make strategic decisions. I also developed new and innovative reports helping ETFGI expands its core business and bring transparency into the then opaque industry sectors of ESG and Smart Beta ahead of competitors. At Makers, I applied the same analytical skills by clearly defining the problem of each project and by breaking it down into smaller pieces, after having understood the requirements from a broader perspective.
 
 #### Communication and collaboration skills
 
